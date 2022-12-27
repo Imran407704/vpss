@@ -1,0 +1,14 @@
+{
+    "name": "Youtube Stream 24/7 #techcode ",
+    "description": "Deploy noVNC to Heroku.",
+    "keywords": [
+        "VNC",
+        "Docker",
+        "noVNC"
+    ],
+    "env": {},
+    "website": "",
+    "repository": "https://github.com/RixEtte/vps-heroku.git",
+    "logo": "https://raw.githubusercontent.com/RixEtte/vps-heroku/main/58480873cef1014c0b5e48ea.png",
+    "stack": "container"
+}
